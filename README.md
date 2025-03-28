@@ -63,11 +63,3 @@ DermAssist/
 - **Robust AI Model** trained on **SCIN dataset** for accurate and inclusive skin condition analysis.
 - **User-Friendly UI** that simplifies complex dermatological data into actionable insights.
 
----
-
-## 🔮 Future Roadmap
-- **Expand dataset coverage** to include more dermatological conditions.
-- **Enhance AI model accuracy** using advanced techniques.
-- **Integrate DermAssist into healthcare platforms** for broader accessibility.
-- **Open-source contributions** to improve model fairness and accuracy.
-
